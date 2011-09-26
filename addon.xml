@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.pydoc-html-generator"
+       name="Pydoc Generator"
+       version="0.0.1"
+       provider-name="sphere">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.script"
+             library="default.py" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Generates up2date html docs for the xbmc modules</summary>
+    <description lang="en">Currently all xbmc modules are supported:[CR]xbmc[CR]xbmcplugin[CR]xbmcgui[CR]xbmcplugin[CR]xbmcvfs</description>
+  </extension>
+</addon>
