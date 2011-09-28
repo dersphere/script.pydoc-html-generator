@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-   <setting id="save_path" type="folder" source="files" label="folder" default="" />
+   <setting id="save_path" type="folder" source="files" label="30001" default="" />
 </settings>
