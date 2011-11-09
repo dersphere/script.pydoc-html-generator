@@ -5,7 +5,7 @@ import xbmcgui
 import xbmc
 
 
-MODULES = ('xbmc', 'xbmcplugin', 'xbmcgui', 'xbmcplugin', 'xbmcvfs')
+MODULES = ('xbmc', 'xbmcplugin', 'xbmcgui', 'xbmcaddon', 'xbmcvfs')
 
 
 if (__name__ == "__main__"):
